@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning AI, Game Dev, and Web3<br>🎯 Goals: Build the next viral app & contribute to open-source!<br>🎲 Fun fact: I once coded a bot</h4>
+<h4 align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning AI, Game Dev, and Web3<br>🎯 Goals: Build useful & attractive websites | Create innovative WA/Telegram bots | Contribute to open-source!<br>🎲 Fun fact: I once coded a bot that automated my homework</h4>
 
 ###
 
@@ -26,6 +26,36 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
 ###
+
+<h2 align="left">My Projects</h2>
+
+###
+
+<h4 align="left">🌐 Web Development:<br>- E-commerce sites<br>- Interactive web apps<br>- Personal portfolios<br><br>🤖 Bot Development:<br>- WhatsApp automation bots<br>- Telegram utility bots<br>- Chatbot integrations</h4>
+
+###
+
+<h2 align="left">Check this out!</h2>
+
+###
+
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@codingwithfikri/video/7356904364474158342" data-video-id="7356904364474158342" style="max-width: 605px;min-width: 325px;" > 
+  <section> 
+    <a target="_blank" title="@codingwithfikri" href="https://www.tiktok.com/@codingwithfikri">@codingwithfikri</a> 
+    <p>Inspirasi untuk project bot berikutnya!</p> 
+    <a target="_blank" title="♬ original sound  - Fikri" href="https://www.tiktok.com/music/original-sound-7356904387853085445">♬ original sound - Fikri</a> 
+  </section> 
+</blockquote> 
+
+###
+
+<h2 align="left">My Coding Vibes</h2>
+
+###
+
+<iframe src="https://open.spotify.com/embed/track/6E6wrY7jWCYt1YF2Xmm6Xm?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
