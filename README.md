@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning AI, Game Dev, and Web3<br>🎯 Goals: Build useful & attractive websites | Create innovative WA/Telegram bots | Contribute to open-source!<br>🎲 Fun fact: I once coded a bot that automated my homework</h4>
+<h4 align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning AI, Game Dev, and Web3<br>🎯 Goals: Build useful & attractive websites | Create innovative WA/Telegram bots | Contribute to open-source!<br>🎲 Fun fact: I once coded a bot that automated my homework</h4>
 
 ###
 
