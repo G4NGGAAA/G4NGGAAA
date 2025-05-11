@@ -44,16 +44,6 @@
 
 ###
 
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@codingwithfikri/video/7356904364474158342" data-video-id="7356904364474158342" style="max-width: 605px;min-width: 325px;" > 
-  <section> 
-    <a target="_blank" title="@codingwithfikri" href="https://www.tiktok.com/@codingwithfikri">@codingwithfikri</a> 
-    <p>Inspirasi untuk project bot berikutnya!</p> 
-    <a target="_blank" title="♬ original sound  - Fikri" href="https://www.tiktok.com/music/original-sound-7356904387853085445">♬ original sound - Fikri</a> 
-  </section> 
-</blockquote> 
-
-###
-
 <h2 align="left">My Coding Vibes</h2>
 
 ###
