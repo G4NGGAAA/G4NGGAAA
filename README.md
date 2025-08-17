@@ -1,4 +1,6 @@
-<h2 align="left">Halloo, I am G4nggaaa</h2>
+
+
+# 👋 Hi, I'm G4NGGAAA
 
 ###
 
