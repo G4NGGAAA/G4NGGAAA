@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/G4NGGAAA/G4NGGAAA/icon.png" style="max-width: 100%; height: auto;">
+</p>
 
 
 # 👋 Hi, I'm G4NGGAAA
