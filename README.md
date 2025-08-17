@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://id.pinterest.com/pin/1031957702123556216/" style="max-width: 100%; height: auto;">
-</p>
-
 
 # 👋 Hi, I'm G4NGGAAA
 
