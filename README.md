@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/G4NGGAAA/G4NGGAAA/icon.png" style="max-width: 100%; height: auto;">
+  <img src="https://id.pinterest.com/pin/1031957702123556216/" style="max-width: 100%; height: auto;">
 </p>
 
 
