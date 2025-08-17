@@ -4,11 +4,12 @@
 ###
 
 <h3 align="left">My name is Gangga Arya Fatiyan and I from Indonesian</h3>
+
 --
 
 ###
 
-<h2 align="left">About me</h2>
+About me
 
 ###
 
