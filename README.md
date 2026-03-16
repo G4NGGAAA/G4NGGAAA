@@ -1,8 +1,7 @@
-
-<p align=<h1 align="center">Hi 👋, I'm G4NGGAAA</h1>
+<h1 align="center">Hi 👋, I'm G4NGGAAA</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/50/93/da/5093da2d3250b011973e1d129bb0c4de.gif" width="100%">
+  <img src="https://i.pinimg.com/originals/50/93/da/5093da2d3250b011973e1d129bb0c4de.gif" width="90%">
 </p>
 
 <p align="center">
@@ -96,11 +95,11 @@ const Gangga = {
 </a>
 
 <a href="https://t.me/">
-<img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram"/>
+<img src="https://img.shields.io/badge/Telegram?style=for-the-badge&logo=telegram"/>
 </a>
 
 <a href="https://instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-3B82F6?style=for-the-badge&logo=instagram"/>
+<img src="https://img.shields.io/badge/Instagram?style=for-the-badge&logo=instagram"/>
 </a>
 
 </p>
