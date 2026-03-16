@@ -1,23 +1,21 @@
 
-<h1 align="center">Hi 👋, I'm G4NGGAAA</h1>
+<p align=<h1 align="center">Hi 👋, I'm G4NGGAAA</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/50/93/da/5093da2d3250b011973e1d129bb0c4de.gif" width="full">
-</p>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9E4C98&center=true&vCenter=true&width=600&lines=Gangga+Arya+Fatiyan;Indonesian+Developer;Bot+Developer;AI+Learner;Open+Source+Enthusiast" />
+  <img src="https://i.pinimg.com/originals/50/93/da/5093da2d3250b011973e1d129bb0c4de.gif" width="100%">
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=G4NGGAAA&label=Profile+Views&color=9e4c98&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Gangga+Arya+Fatiyan;Indonesian+Developer;Bot+Developer;AI+Learner;Open+Source+Enthusiast" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=G4NGGAAA&label=Profile+Views&color=3B82F6&style=flat" />
 <img src="https://img.shields.io/github/followers/G4NGGAAA?label=Followers&style=social" />
 <img src="https://img.shields.io/github/stars/G4NGGAAA?label=Stars&style=social" />
-<img src="https://img.shields.io/github/last-commit/G4NGGAAA/G4NGGAAA?color=9e4c98&label=Last%20Update" />
-<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Bots%20%7C%20Automation-9e4c98" />
+<img src="https://img.shields.io/github/last-commit/G4NGGAAA/G4NGGAAA?color=3B82F6&label=Last%20Update" />
+<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Bots%20%7C%20Automation-3B82F6" />
 </p>
-
 
 ---
 
@@ -49,9 +47,9 @@ const Gangga = {
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=G4NGGAAA&show_icons=true&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=G4NGGAAA&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G4NGGAAA&layout=compact&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G4NGGAAA&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -60,7 +58,7 @@ const Gangga = {
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=G4NGGAAA&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=G4NGGAAA&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -68,7 +66,7 @@ const Gangga = {
 # 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=G4NGGAAA&bg_color=000000&color=9e4c98&line=9e4c98&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=G4NGGAAA&bg_color=000000&color=3B82F6&line=3B82F6&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 ---
@@ -76,7 +74,7 @@ const Gangga = {
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=G4NGGAAA&theme=radical&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=G4NGGAAA&theme=algolia&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -86,6 +84,7 @@ const Gangga = {
 <p align="center">
   <img src="https://raw.githubusercontent.com/G4NGGAAA/G4NGGAAA/output/github-contribution-grid-snake-dark.svg">
 </p>
+
 ---
 
 # 🌐 Connect With Me
@@ -97,11 +96,11 @@ const Gangga = {
 </a>
 
 <a href="https://t.me/">
-<img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram"/>
+<img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram"/>
 </a>
 
 <a href="https://instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+<img src="https://img.shields.io/badge/Instagram-3B82F6?style=for-the-badge&logo=instagram"/>
 </a>
 
 </p>
