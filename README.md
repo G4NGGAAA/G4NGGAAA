@@ -9,9 +9,14 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=G4NGGAAA&label=Profile+Views&color=9e4c98&style=flat" />
-  <img src="https://img.shields.io/github/followers/G4NGGAAA?label=Followers&style=social" />
+<img src="https://komarev.com/ghpvc/?username=G4NGGAAA&label=Profile+Views&color=9e4c98&style=flat" />
+<img src="https://img.shields.io/github/followers/G4NGGAAA?label=Followers&style=social" />
+<img src="https://img.shields.io/github/stars/G4NGGAAA?label=Stars&style=social" />
+<img src="https://img.shields.io/github/last-commit/G4NGGAAA/G4NGGAAA?color=9e4c98&label=Last%20Update" />
+<img src="https://img.shields.io/github/repos/G4NGGAAA?color=9e4c98&label=Repositories" />
+<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Bots%20%7C%20Automation-9e4c98" />
 </p>
+
 
 ---
 
