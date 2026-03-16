@@ -1,8 +1,10 @@
+
+<h1 align="center">Hi 👋, I'm G4NGGAAA</h1>
+
 <p align="center">
   <img src="https://i.pinimg.com/originals/50/93/da/5093da2d3250b011973e1d129bb0c4de.gif" width="full">
 </p>
 
-<h1 align="center">Hi 👋, I'm G4NGGAAA</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9E4C98&center=true&vCenter=true&width=600&lines=Gangga+Arya+Fatiyan;Indonesian+Developer;Bot+Developer;AI+Learner;Open+Source+Enthusiast" />
