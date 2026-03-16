@@ -95,11 +95,11 @@ const Gangga = {
 </a>
 
 <a href="https://t.me/">
-<img src="https://img.shields.io/badge/Telegram?style=for-the-badge&logo=telegram"/>
+<img src="https://img.shields.io/badge/Telegram-229ED9?&logo=telegram"/>
 </a>
 
 <a href="https://instagram.com/">
-<img src="https://img.shields.io/badge/Instagram?style=for-the-badge&logo=instagram"/>
+<img src="https://img.shields.io/badge/Instagram-3B82F6?s&logo=instagram"/>
 </a>
 
 </p>
