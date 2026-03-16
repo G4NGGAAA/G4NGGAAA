@@ -78,9 +78,8 @@ const Gangga = {
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/G4NGGAAA/G4NGGAAA/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/G4NGGAAA/G4NGGAAA/output/github-contribution-grid-snake-dark.svg">
 </p>
-
 ---
 
 # 🌐 Connect With Me
