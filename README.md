@@ -91,15 +91,19 @@ const Gangga = {
 <p align="center">
 
 <a href="https://github.com/G4NGGAAA">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://t.me/">
-<img src="https://img.shields.io/badge/Telegram-229ED9?&logo=telegram"/>
+<a href="https://t.me/G4Syntactic">
+<img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-3B82F6?s&logo=instagram"/>
+<a href="https://instagram.com/g4nggaa">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/6285855962331">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </p>
