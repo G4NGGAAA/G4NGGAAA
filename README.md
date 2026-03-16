@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/50/93/da/5093da2d3250b011973e1d129bb0c4de.gif" width="auto">
+  <img src="https://i.pinimg.com/originals/50/93/da/5093da2d3250b011973e1d129bb0c4de.gif" width="full">
 </p>
 
 <h1 align="center">Hi 👋, I'm G4NGGAAA</h1>
