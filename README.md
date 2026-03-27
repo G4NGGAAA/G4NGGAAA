@@ -37,7 +37,7 @@ const Gangga = {
 # ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,typescript,python,nodejs,html,css,npmjs,git,github,vscode,windows"/>
+  <img src="https://skillicons.dev/icons?i=js,typescript,python,nodejs,html,css,react,git,github,vscode,windows"/>
 </p>
 
 ---
