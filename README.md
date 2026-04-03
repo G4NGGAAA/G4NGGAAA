@@ -56,8 +56,6 @@ const Gangga = {
 
   <img width=390 src="https://git-readme-statz-humbas-projects.vercel.app/api/top-langs/?username=G4NGGAAA&layout=compact&theme=react&border_radius=10" />
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=G4NGGAAA&theme=nightowl" />
-
 </div>
 </details>
 
