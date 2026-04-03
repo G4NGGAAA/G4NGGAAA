@@ -64,7 +64,7 @@ const Gangga = {
 # 👀 Total Visitors
 
 <p align="center">
-  <img src="https://count.getloli.com/@G4NGGAAA?name=G4NGGAAA&theme=booru-smtg"/>
+  <img src="https://count.getloli.com/@G4NGGAAA?name=G4NGGAAA&theme=gelbooru"/>
 </p>
 
 ---
