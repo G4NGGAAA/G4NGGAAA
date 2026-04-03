@@ -50,7 +50,7 @@ const Gangga = {
 <br/>
 <div align="center">
 
-  <img width=390 src="https://github-readme-streak-stats-humbas-projects.vercel.app?user=G4NGGAAA&theme=merko&border_radius=7.4" />
+  <img width=390 src="https://github-readme-streak-stats-humbas-projects.vercel.app?user=G4NGGAAA&theme=react&border_radius=7.4" />
 
   <img width=390 src="https://git-readme-statz-humbas-projects.vercel.app/api?username=G4NGGAAA&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
 
